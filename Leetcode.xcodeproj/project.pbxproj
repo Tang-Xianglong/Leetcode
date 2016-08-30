@@ -7,7 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9483E1BB1CB503E100826BBC /* Dijkstra.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9483E1B91CB503E100826BBC /* Dijkstra.cpp */; };
+		94D010161D6D458000967234 /* record_wrong_files.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 94D010151D6D458000967234 /* record_wrong_files.cpp */; };
+		94E5BD661CBDE2D400F531F3 /* inherit.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 94E5BD651CBDE2D400F531F3 /* inherit.cpp */; };
+		94E5BD681CBDF12D00F531F3 /* queue by two stack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 94E5BD671CBDF12D00F531F3 /* queue by two stack.cpp */; };
 		94EC34161CAB595100F6D513 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 94EC34151CAB595100F6D513 /* main.cpp */; };
+		94EC341D1CAB803B00F6D513 /* find number of c in string.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 94EC341C1CAB803B00F6D513 /* find number of c in string.cpp */; };
+		94EC341F1CABF07200F6D513 /* swap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 94EC341E1CABF07200F6D513 /* swap.cpp */; };
+		94EC34211CACBD2400F6D513 /* N!.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 94EC34201CACBD2400F6D513 /* N!.cpp */; };
+		94EC34231CAE083E00F6D513 /* findKth.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 94EC34221CAE083E00F6D513 /* findKth.cpp */; };
+		94FC03EB1CBB4A6A008E0F38 /* heap_sort_1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 94FC03EA1CBB4A6A008E0F38 /* heap_sort_1.cpp */; };
+		94FDAE0D1CB5FE5D00642B40 /* hello_server.c in Sources */ = {isa = PBXBuildFile; fileRef = 94FDAE0C1CB5FE5D00642B40 /* hello_server.c */; };
+		94FDAE0F1CB601AE00642B40 /* hello_client.c in Sources */ = {isa = PBXBuildFile; fileRef = 94FDAE0E1CB601AE00642B40 /* hello_client.c */; };
+		94FDAE121CB8A15A00642B40 /* quick_sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 94FDAE101CB8A15A00642B40 /* quick_sort.cpp */; };
+		94FDAE141CB8AE7000642B40 /* heap_sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 94FDAE131CB8AE7000642B40 /* heap_sort.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +36,22 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9483E1B91CB503E100826BBC /* Dijkstra.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Dijkstra.cpp; sourceTree = "<group>"; };
+		9483E1BA1CB503E100826BBC /* Dijkstra.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Dijkstra.hpp; sourceTree = "<group>"; };
+		94D010151D6D458000967234 /* record_wrong_files.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = record_wrong_files.cpp; sourceTree = "<group>"; };
+		94E5BD651CBDE2D400F531F3 /* inherit.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = inherit.cpp; sourceTree = "<group>"; };
+		94E5BD671CBDF12D00F531F3 /* queue by two stack.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "queue by two stack.cpp"; sourceTree = "<group>"; };
 		94EC34121CAB595100F6D513 /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		94EC34151CAB595100F6D513 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		94EC341C1CAB803B00F6D513 /* find number of c in string.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "find number of c in string.cpp"; sourceTree = "<group>"; };
+		94EC341E1CABF07200F6D513 /* swap.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = swap.cpp; sourceTree = "<group>"; };
+		94EC34201CACBD2400F6D513 /* N!.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "N!.cpp"; sourceTree = "<group>"; };
+		94EC34221CAE083E00F6D513 /* findKth.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = findKth.cpp; sourceTree = "<group>"; };
+		94FC03EA1CBB4A6A008E0F38 /* heap_sort_1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = heap_sort_1.cpp; sourceTree = "<group>"; };
+		94FDAE0C1CB5FE5D00642B40 /* hello_server.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = hello_server.c; sourceTree = "<group>"; };
+		94FDAE0E1CB601AE00642B40 /* hello_client.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = hello_client.c; sourceTree = "<group>"; };
+		94FDAE101CB8A15A00642B40 /* quick_sort.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = quick_sort.cpp; sourceTree = "<group>"; };
+		94FDAE131CB8AE7000642B40 /* heap_sort.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = heap_sort.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +85,20 @@
 			isa = PBXGroup;
 			children = (
 				94EC34151CAB595100F6D513 /* main.cpp */,
+				94EC341C1CAB803B00F6D513 /* find number of c in string.cpp */,
+				94EC341E1CABF07200F6D513 /* swap.cpp */,
+				94EC34201CACBD2400F6D513 /* N!.cpp */,
+				94EC34221CAE083E00F6D513 /* findKth.cpp */,
+				9483E1B91CB503E100826BBC /* Dijkstra.cpp */,
+				9483E1BA1CB503E100826BBC /* Dijkstra.hpp */,
+				94FDAE0C1CB5FE5D00642B40 /* hello_server.c */,
+				94FDAE0E1CB601AE00642B40 /* hello_client.c */,
+				94FDAE101CB8A15A00642B40 /* quick_sort.cpp */,
+				94FDAE131CB8AE7000642B40 /* heap_sort.cpp */,
+				94FC03EA1CBB4A6A008E0F38 /* heap_sort_1.cpp */,
+				94E5BD651CBDE2D400F531F3 /* inherit.cpp */,
+				94E5BD671CBDF12D00F531F3 /* queue by two stack.cpp */,
+				94D010151D6D458000967234 /* record_wrong_files.cpp */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -118,7 +159,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94FDAE121CB8A15A00642B40 /* quick_sort.cpp in Sources */,
+				94E5BD681CBDF12D00F531F3 /* queue by two stack.cpp in Sources */,
+				94FDAE141CB8AE7000642B40 /* heap_sort.cpp in Sources */,
+				94EC34231CAE083E00F6D513 /* findKth.cpp in Sources */,
+				94E5BD661CBDE2D400F531F3 /* inherit.cpp in Sources */,
+				94FDAE0F1CB601AE00642B40 /* hello_client.c in Sources */,
 				94EC34161CAB595100F6D513 /* main.cpp in Sources */,
+				94FDAE0D1CB5FE5D00642B40 /* hello_server.c in Sources */,
+				94FC03EB1CBB4A6A008E0F38 /* heap_sort_1.cpp in Sources */,
+				94EC341D1CAB803B00F6D513 /* find number of c in string.cpp in Sources */,
+				94D010161D6D458000967234 /* record_wrong_files.cpp in Sources */,
+				9483E1BB1CB503E100826BBC /* Dijkstra.cpp in Sources */,
+				94EC34211CACBD2400F6D513 /* N!.cpp in Sources */,
+				94EC341F1CABF07200F6D513 /* swap.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -237,6 +291,7 @@
 				94EC341B1CAB595100F6D513 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
